@@ -1,2 +1,3 @@
 # FilesOperations
-Hola!, nuestra librería FilesOperations es un librería centrada en la modificación de archivos en Java como borrar, mover, copiar, escribir, leer y crear. Nuestro propósito es mejorar la recursividad de los programadores, además de hacer que no se estanquen en desarrollar un pequeño pedazo de código el cual les complica y ralentiza su progreso
+Hola!, nuestra libreria presentada en este repositorio se llama FilesOperations, es un librería que esta centrada en archivos para Java.
+Decidimos presentar una parte de nuestra libreria con el propósito de mejorar la recursividad de los programadores, además de hacer que no se estanquen en el desarrollo de su código, el cual complica y ralentiza su progreso.
